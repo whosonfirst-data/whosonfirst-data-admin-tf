@@ -9,7 +9,6 @@
     "geom:bbox":"68.6101180355,-49.721612238,70.5685327479,-48.5666643206",
     "geom:latitude":-49.296081,
     "geom:longitude":69.48895,
-    "gn:id":"",
     "iso:country":"TF",
     "label:eng_x_preferred_longname":[
         "Archipel des Kerguelen District"
@@ -261,7 +260,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566654214,
+    "wof:lastmodified":1603257419,
     "wof:name":"Archipel des Kerguelen",
     "wof:parent_id":85632549,
     "wof:placetype":"region",

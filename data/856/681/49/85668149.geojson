@@ -9,7 +9,6 @@
     "geom:bbox":"50.1755477218,-46.4512671849,51.8681746752,-46.0437151019",
     "geom:latitude":-46.298377,
     "geom:longitude":51.280621,
-    "gn:id":"",
     "iso:country":"TF",
     "label:eng_x_preferred_longname":[
         "Archipel des Crozet District"
@@ -201,7 +200,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566654215,
+    "wof:lastmodified":1603257419,
     "wof:name":"Archipel des Crozet",
     "wof:parent_id":85632549,
     "wof:placetype":"region",

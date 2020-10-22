@@ -9,7 +9,6 @@
     "geom:bbox":"39.6939396494,-22.3654924457,54.5213322274,-11.5506324197",
     "geom:latitude":-20.607299,
     "geom:longitude":41.438446,
-    "gn:id":"",
     "iso:country":"TF",
     "label:eng_x_preferred_longname":[
         "Iles Eparses de l'ocean Indien District"
@@ -201,7 +200,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566654214,
+    "wof:lastmodified":1603257419,
     "wof:name":"Iles Eparses de l'ocean Indien",
     "wof:parent_id":85632549,
     "wof:placetype":"region",

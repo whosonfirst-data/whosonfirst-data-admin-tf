@@ -9,7 +9,6 @@
     "geom:bbox":"77.4875594415,-38.7384579406,77.5852156912,-37.8202450495",
     "geom:latitude":-37.994104,
     "geom:longitude":77.534773,
-    "gn:id":"",
     "iso:country":"TF",
     "label:eng_x_preferred_longname":[
         "Iles Saint-Paul et Nouvelle-Amsterdam District"
@@ -229,7 +228,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566654214,
+    "wof:lastmodified":1603257419,
     "wof:name":"Iles Saint-Paul et Nouvelle-Amsterdam",
     "wof:parent_id":85632549,
     "wof:placetype":"region",
